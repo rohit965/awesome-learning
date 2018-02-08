@@ -35,8 +35,8 @@
 
 ## Philosophy
 
-- [ ] [Five years, building a culture, and handing it off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/)
-- [ ] [3 characteristics of an effective cloud developer](http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/)
+- [x] [Five years, building a culture, and handing it off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/)
+- [x] [3 characteristics of an effective cloud developer](http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/)
 
 ## Processes
 

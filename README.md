@@ -40,11 +40,11 @@
 
 ## Processes
 
-- [ ] [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
-- [ ] [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
-- [ ] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
-- [ ] [Communication and Collaboration across teams](http://theremotelab.com/blog/slack+trello/)
-- [ ] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
+- [x] [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
+- [x] [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
+- [x] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
+- [x] [Communication and Collaboration across teams](http://theremotelab.com/blog/slack+trello/)
+- [x] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
 
 ## Source Code Management
 

@@ -3,9 +3,8 @@
 [![Build Status](https://travis-ci.org/sanketjpatel/awesome-learning.svg?branch=master)](https://travis-ci.org/sanketjpatel/awesome-learning)
 ![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
 [![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
-[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://letsdevops.slack.com)
 
-... because learning DevOps is awesome
+... because learning DevOps is awesome! Material borrowed from [The Remote Lab - awesome learning](https://github.com/TheRemoteLab/awesome-learning)
 
 ![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 

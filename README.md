@@ -47,15 +47,15 @@
 
 ## Source Code Management
 
-- [ ] [Gitignore exmpales - Ignoring what shouldn't go inside your codebase](https://github.com/github/gitignore)
-- [ ] [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-- [ ] [Useful Git Workflows - Comparison as well](https://www.atlassian.com/git/tutorials/comparing-workflows/)
-- [ ] [GitHub Training & Guides](https://vimeo.com/channels/githubguides)
-- [ ] [Versioning 101](http://semver.org/)
-- [ ] [Forking Vs Branching](http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github)
-- [ ] [How is SVN v 1.8 branching / merging compared to Git?](http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git)
-- [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
-- [ ] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
+- [x] [Gitignore exmpales - Ignoring what shouldn't go inside your codebase](https://github.com/github/gitignore)
+- [x] [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+- [x] [Useful Git Workflows - Comparison as well](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+- [x] [GitHub Training & Guides](https://vimeo.com/channels/githubguides)
+- [x] [Versioning 101](http://semver.org/)
+- [x] [Forking Vs Branching](http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github)
+- [x] [How is SVN v 1.8 branching / merging compared to Git?](http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git)
+- [x] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
+- [x] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
 
 ## Build Automation:
 
@@ -166,7 +166,7 @@
 ### Golang:
 
 - [ ] [A curated list of awesome Go frameworks](https://github.com/avelino/awesome-go)
-- [ ] [Go programming language tour](https://tour.golang.org/)
+- [x] [Go programming language tour](https://tour.golang.org/)
 
 ### Shell
 

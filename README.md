@@ -61,8 +61,8 @@
 
 ## Continuous Integration:
 
-- [ ] [CI Using Docker platform - Jenkins, SonarQube, Nexus, Gitlab](https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/)
-- [ ] [Six rules for setting up continuous integration systems](https://rhonabwy.com/2016/01/31/six-rules-for-setting-up-continuous-integration-systems/)
+- [x] [CI Using Docker platform - Jenkins, SonarQube, Nexus, Gitlab](https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/)
+- [x] [Six rules for setting up continuous integration systems](https://rhonabwy.com/2016/01/31/six-rules-for-setting-up-continuous-integration-systems/)
 
 ## Continuous Delivery:
 
